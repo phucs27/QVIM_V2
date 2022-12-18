@@ -1,0 +1,13 @@
+D:\Dev\Cs\QVIM_221218\QVIM_221218\bin\Debug\QVIM_221218.exe.config
+D:\Dev\Cs\QVIM_221218\QVIM_221218\bin\Debug\QVIM_221218.exe
+D:\Dev\Cs\QVIM_221218\QVIM_221218\bin\Debug\QVIM_221218.pdb
+D:\Dev\Cs\QVIM_221218\QVIM_221218\obj\Debug\QVIM_221218.csproj.AssemblyReference.cache
+D:\Dev\Cs\QVIM_221218\QVIM_221218\obj\Debug\QVIM_221218.csproj.SuggestedBindingRedirects.cache
+D:\Dev\Cs\QVIM_221218\QVIM_221218\obj\Debug\QVIM_221218.FormMain.resources
+D:\Dev\Cs\QVIM_221218\QVIM_221218\obj\Debug\QVIM_221218.Properties.Resources.resources
+D:\Dev\Cs\QVIM_221218\QVIM_221218\obj\Debug\QVIM_221218.csproj.GenerateResource.cache
+D:\Dev\Cs\QVIM_221218\QVIM_221218\obj\Debug\QVIM_221218.csproj.CoreCompileInputs.cache
+D:\Dev\Cs\QVIM_221218\QVIM_221218\obj\Debug\QVIM_221218.exe
+D:\Dev\Cs\QVIM_221218\QVIM_221218\obj\Debug\QVIM_221218.pdb
+D:\Dev\Cs\QVIM_221218\QVIM_221218\obj\Debug\QVIM_221218.FormChilds.FormInformation.resources
+D:\Dev\Cs\QVIM_221218\QVIM_221218\obj\Debug\QVIM_221218.FormChilds.FormView.resources

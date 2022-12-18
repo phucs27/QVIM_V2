@@ -33,6 +33,8 @@
             this.panel2 = new System.Windows.Forms.Panel();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.userControlEditBar1 = new QVIM_221218.FormChilds.UserControlEditBar();
+            this.panelEditBar.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -42,6 +44,7 @@
             // panelEditBar
             // 
             this.panelEditBar.BackColor = System.Drawing.Color.LightGray;
+            this.panelEditBar.Controls.Add(this.userControlEditBar1);
             this.panelEditBar.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panelEditBar.Location = new System.Drawing.Point(0, 1001);
             this.panelEditBar.Name = "panelEditBar";
@@ -90,6 +93,14 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
+            // userControlEditBar1
+            // 
+            this.userControlEditBar1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.userControlEditBar1.Location = new System.Drawing.Point(0, 0);
+            this.userControlEditBar1.Name = "userControlEditBar1";
+            this.userControlEditBar1.Size = new System.Drawing.Size(1904, 40);
+            this.userControlEditBar1.TabIndex = 0;
+            // 
             // FormView
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -100,6 +111,7 @@
             this.Controls.Add(this.panelEditBar);
             this.Name = "FormView";
             this.Text = "FormView";
+            this.panelEditBar.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
@@ -115,5 +127,6 @@
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox pictureBox2;
+        private UserControlEditBar userControlEditBar1;
     }
 }

@@ -11,3 +11,4 @@ D:\Dev\Cs\QVIM_221218\QVIM_221218\obj\Debug\QVIM_221218.exe
 D:\Dev\Cs\QVIM_221218\QVIM_221218\obj\Debug\QVIM_221218.pdb
 D:\Dev\Cs\QVIM_221218\QVIM_221218\obj\Debug\QVIM_221218.FormChilds.FormInformation.resources
 D:\Dev\Cs\QVIM_221218\QVIM_221218\obj\Debug\QVIM_221218.FormChilds.FormView.resources
+D:\Dev\Cs\QVIM_221218\QVIM_221218\obj\Debug\QVIM_221218.FormChilds.UserControlEditBar.resources

@@ -64,6 +64,12 @@
     <Compile Include="FormChilds\FormView.Designer.cs">
       <DependentUpon>FormView.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormChilds\UserControlEditBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FormChilds\UserControlEditBar.Designer.cs">
+      <DependentUpon>UserControlEditBar.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormChilds\UserControlImageEditor.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -81,6 +87,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormChilds\FormView.resx">
       <DependentUpon>FormView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChilds\UserControlEditBar.resx">
+      <DependentUpon>UserControlEditBar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
